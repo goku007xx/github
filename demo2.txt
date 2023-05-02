@@ -7,3 +7,4 @@ Feature 3 addition
 Feature 4 addition
 Feature 5 addition
 6
+7
