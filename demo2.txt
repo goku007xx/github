@@ -3,8 +3,9 @@ And so is local food
 Added a new line for local CLI code
 Feature 1 addition
 Feature 2 addition
-Pop1
-Pop1
-Pop2
-Pop3
-Pop4
+Feature 3 addition
+Feature 4 addition
+Feature 5 addition
+6
+7
+8
