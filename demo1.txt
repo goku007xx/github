@@ -13,6 +13,6 @@ Feature 5 addition
 
 C1
 C2
-c1
+conf1
 c2
 c3
